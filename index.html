@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1088, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/landing-page-v1.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Skranji:700|Poiret+One:400|Puritan:400");
+      .anima-component-wrapper a,
+      .anima-screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .anima-flexbox-container a {
+        line-height: 0;
+      }
+      .anima-full-width-a {
+        width: 100%;
+      }
+
+      .anima-full-height-a {
+        height: 100%;
+      }
+
+      .anima-screen textarea:focus,
+      .anima-screen input:focus {
+        outline: none;
+      }
+
+      .anima-screen *,
+      .anima-component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .anima-screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .anima-container-center-vertical,
+      .anima-container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .anima-container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .anima-container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .anima-container-center-vertical > *,
+      .anima-container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .anima-component-wrapper,
+      .anima-screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .anima-auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --anima-z-index: -1;
+      }
+
+      .anima-auto-animated .anima-container-center-vertical,
+      .anima-auto-animated .anima-container-center-horizontal {
+        opacity: 1;
+      }
+
+      .anima-overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .anima-animate-appear {
+        opacity: 0;
+        display: block;
+        animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .anima-animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .anima-animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes anima-reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .anima-valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .anima-valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      .anima-component-wrapper,
+      .anima-component-wrapper * {
+        pointer-events: none;
+      }
+
+      .anima-component-wrapper a *,
+      .anima-component-wrapper a,
+      .anima-component-wrapper input,
+      .anima-component-wrapper video,
+      .anima-component-wrapper iframe,
+      .anima-listeners-active,
+      .anima-listeners-active * {
+        pointer-events: auto;
+      }
+
+      .anima-hidden,
+      .anima-hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .anima-smart-layers-pointers,
+      .anima-smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .anima-component-wrapper.anima-not-ready,
+      .anima-component-wrapper.anima-not-ready * {
+        visibility: hidden !important;
+      }
+
+      .anima-listeners-active-click,
+      .anima-listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="landing-page-v1" />
+    <div class="landing-page-v1 border-class-1 anima-screen">
+      <img class="vector-C61RwL" src="img/vector@2x.png" />
+      <div class="junte-se-C61RwL border-class-1">Junte-se</div>
+      <img class="group-25-C61RwL" src="img/group-25@1x.png" />
+      <div class="a-nummo-fu-as-dividas-C61RwL border-class-1">
+        A Nummo funciona como uma interface de integração entre a pessoa que possui saldo monetário para emprestar, e a
+        pessoa que está precisando de um empréstimo. Os juros são baixos, o que faz com que a Nummo seja a escolha certa
+        para você que quer ficar longe das dívidas!
+      </div>
+      <div class="a-nummo-ge-ua-decisao-C61RwL font-class-2 border-class-1">
+        A Nummo gera cálculos de risco de investimento que ajudam na sua decisão
+      </div>
+      <div class="a-nummo-es-estimentos-C61RwL border-class-1">
+        A Nummo está aqui para ajudar você! Na nossa plataforma mobile você encontra diversas funcionalidades referentes
+        ao mundo dos negócios. Além de poder entrar em contato com diversas pessoas dispostas a emprestar dinheiro, você
+        ainda tem acesso a abas com informações relevantes sobre finanças e sobre investimentos.
+      </div>
+      <div class="descubra-m-ir-de-casa-C61RwL border-class-1">
+        Descubra mais sobre o novo mundo dos empréstimos financeiros fornecidos pela Nummo sem precisar sair de casa!
+      </div>
+      <img class="group-26-C61RwL" src="img/group-26@1x.png" />
+      <div class="quem-somos-C61RwL border-class-1">Quem Somos</div>
+      <div class="a-nummo-es-a-com-voce-C61RwL border-class-1">A Nummo está com você!</div>
+      <div class="receber-C61RwL font-class-3 border-class-1">Receber</div>
+      <div class="investir-C61RwL font-class-3 border-class-1">Investir</div>
+      <div class="investir-VMr6Om font-class-3 border-class-1">Investir</div>
+      <div class="missao-C61RwL font-class-3 border-class-1">Missão</div>
+      <div class="nos-C61RwL font-class-3 border-class-1">Nós</div>
+      <div class="como-funciona-C61RwL border-class-1">Como Funciona</div>
+      <div class="a-nummo-es-iro-parado-C61RwL border-class-1">
+        A Nummo está aqui para você, vamos juntos extiguir dívidas e trazer rendimento ao dinheiro parado!
+      </div>
+      <img class="rectangle-14-C61RwL" src="img/rectangle-14@1x.png" />
+      <img class="rectangle-15-C61RwL" src="img/rectangle-15@2x.png" />
+      <img class="rectangle-16-C61RwL" src="img/rectangle-16@2x.png" />
+      <div class="para-quem-empresta-C61RwL border-class-1">PARA QUEM EMPRESTA</div>
+      <div class="vantagens--o-contrato-C61RwL border-class-1">VANTAGENS PARA O CONTRATO</div>
+      <img class="rectangle-17-C61RwL" src="img/rectangle-17@2x.png" />
+      <div class="contato-ma-de-escolha-C61RwL font-class-2 border-class-1">
+        Contato mais pessoal e maiores oportunidades de escolha
+      </div>
+      <img class="rectangle-18-C61RwL" src="img/rectangle-17@2x.png" />
+      <div class="taxa-de-ju--o-mercado-C61RwL font-class-2 border-class-1">Taxa de juros compatível com o mercado</div>
+      <img class="rectangle-19-C61RwL" src="img/rectangle-17@2x.png" />
+      <div class="pagamentos-apidamente-C61RwL font-class-2 border-class-1">Pagamentos são processados rapidamente</div>
+      <div class="forma-comp-emprestimo-C61RwL font-class-2 border-class-1">
+        Forma completamente digital de receber, realizar pagamentos e administrar o seu empréstimo
+      </div>
+      <img class="rectangle-20-C61RwL" src="img/rectangle-20@2x.png" />
+      <div class="processo-s-a-bancaria-C61RwL font-class-2 border-class-1">
+        Processo simples de aplicação, evite a burocracia bancária
+      </div>
+      <img class="rectangle-25-C61RwL" src="img/rectangle-20@2x.png" />
+      <img class="rectangle-21-C61RwL" src="img/rectangle-21@2x.png" />
+      <img class="group-C61RwL" src="img/group@1x.png" />
+      <img class="vector-VMr6Om" src="img/vector-1@2x.png" />
+      <img class="group-VMr6Om" src="img/group-1@1x.png" />
+      <div class="rectangle-23-C61RwL"></div>
+      <img class="rectangle-24-C61RwL" src="img/rectangle-24@2x.png" />
+      <div class="acessar-C61RwL border-class-1">Acessar</div>
+      <img class="nummo-C61RwL" src="img/nummo@2x.png" />
+      <img class="rectangle-31-C61RwL" src="img/rectangle-31@2x.png" />
+      <img class="rectangle-34-C61RwL" src="img/rectangle-34@2x.png" />
+      <img class="vector-mzXdH9" src="img/vector-2@2x.png" />
+      <img class="rectangle-32-C61RwL" src="img/rectangle-32@2x.png" />
+      <div class="rectangle-33-C61RwL"></div>
+      <img class="slice-2-C61RwL" src="img/slice-2@2x.png" />
+      <div class="frame-8-C61RwL"><img class="image-1-8SyPK4" src="img/image-1@1x.jpg" /></div>
+      <img class="pt-brbadge-bgeneric-2-C61RwL" src="img/pt-br-badge-web-generic-2@2x.png" />
+      <div class="se-interes-novo-mundo-C61RwL border-class-1">
+        Se interessou pela Nummo? Então acesse nossa plataforma mobile e conheça mais sobre esse novo mundo!
+      </div>
+      <img class="rectangle-22-C61RwL" src="img/rectangle-22@1x.png" />
+      <div class="rectangle-11-C61RwL"></div>
+      <img class="pt-brbadge-bgeneric-1-C61RwL" src="img/pt-br-badge-web-generic-1@2x.png" />
+      <div class="frame-C61RwL">
+        <img class="xmlid-3-gufFyG" src="img/xmlid-3@2x.png" />
+        <img class="xmlid-2-gufFyG" src="img/xmlid-2@2x.png" />
+        <img class="xmlid-1-gufFyG" src="img/xmlid-1@2x.png" />
+        <img class="vector-gufFyG" src="img/vector-3@2x.png" />
+        <img class="vector-RGSLBL" src="img/vector-4@2x.png" />
+        <img class="vector-xcO7Yh" src="img/vector-5@2x.png" />
+      </div>
+      <div class="frame-VMr6Om">
+        <img class="xmlid-5-xe5316" src="img/xmlid-3@2x.png" />
+        <img class="xmlid-4-xe5316" src="img/xmlid-4@2x.png" />
+        <img class="xmlid-3-xe5316" src="img/xmlid-3-1@2x.png" />
+        <img class="xmlid-2-xe5316" src="img/xmlid-2-1@2x.png" />
+      </div>
+      <div class="missao-VMr6Om font-class-1 border-class-1">Missão</div>
+      <div class="equipe-C61RwL font-class-1 border-class-1">Equipe</div>
+      <div class="contato-C61RwL font-class-1 border-class-1">Contato</div>
+      <div class="parceiros-C61RwL font-class-1 border-class-1">Parceiros</div>
+      <div class="privacidade-C61RwL font-class-1 border-class-1">Privacidade</div>
+      <div class="junte-se-VMr6Om font-class-1 border-class-1">Junte-se</div>
+      <div class="noticias-C61RwL font-class-1 border-class-1">Notícias</div>
+      <div class="perguntas-frequentes-C61RwL font-class-1 border-class-1">Perguntas Frequentes</div>
+      <img class="line-2-C61RwL" src="img/line-2@1x.png" />
+      <img class="rectangle-31-VMr6Om" src="img/rectangle-31-1@2x.png" />
+      <img class="rectangle-34-VMr6Om" src="img/rectangle-34-1@2x.png" />
+      <img class="vector-QxM5SU" src="img/vector-6@2x.png" />
+      <img class="rectangle-32-VMr6Om" src="img/rectangle-32-1@2x.png" />
+      <div class="rectangle-33-VMr6Om"></div>
+      <img class="slice-2-VMr6Om" src="img/slice-2-1@2x.png" />
+      <img class="nummo-VMr6Om" src="img/nummo-1@2x.png" />
+    </div>
+  </body>
+</html>

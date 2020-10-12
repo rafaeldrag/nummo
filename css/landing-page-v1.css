@@ -1,0 +1,800 @@
+/* screen - landing-page-v1 */
+
+.border-class-1 {
+  border:1px solid transparent;
+}
+.font-class-1 {
+  color:var(--white);
+  font-family:'Puritan', Helvetica, Arial, serif;
+  font-size:13.0px;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.52px;
+}
+.font-class-2 {
+  color:var(--black);
+  font-family:'Poiret One', Helvetica, Arial, serif;
+  font-size:23.0px;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.92px;
+}
+.font-class-3 {
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:16.0px;
+  font-style:normal;
+  font-weight:700;
+  letter-spacing:0.64px;
+}
+.landing-page-v1 {
+  background-color:var(--white);
+  height:100vh;
+  margin:0px;
+  min-height:3197px;
+  min-width:1088px;
+  overflow:hidden;
+  position:relative;
+  width:100%;
+}
+.landing-page-v1 .a-nummo-es-a-com-voce-C61RwL {
+  background-color:transparent;
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:37.0px;
+  font-style:normal;
+  font-weight:700;
+  height:2.82%;
+  left:6.25%;
+  letter-spacing:1.48px;
+  position:absolute;
+  text-align:left;
+  top:4.63%;
+  width:32.90%;
+}
+.landing-page-v1 .a-nummo-es-estimentos-C61RwL {
+  background-color:transparent;
+  color:var(--black);
+  font-family:'Poiret One', Helvetica, Arial, serif;
+  font-size:21.0px;
+  font-style:normal;
+  font-weight:400;
+  height:10.04%;
+  left:62.59%;
+  letter-spacing:0.84px;
+  position:absolute;
+  text-align:left;
+  top:23.87%;
+  width:28.03%;
+}
+.landing-page-v1 .a-nummo-es-iro-parado-C61RwL {
+  background-color:transparent;
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:29.0px;
+  font-style:normal;
+  font-weight:700;
+  height:3.07%;
+  left:8.55%;
+  letter-spacing:1.16px;
+  position:absolute;
+  text-align:left;
+  top:71.04%;
+  width:47.15%;
+}
+.landing-page-v1 .a-nummo-fu-as-dividas-C61RwL {
+  background-color:transparent;
+  color:var(--black);
+  font-family:'Poiret One', Helvetica, Arial, serif;
+  font-size:29.0px;
+  font-style:normal;
+  font-weight:400;
+  height:9.23%;
+  left:43.84%;
+  letter-spacing:1.16px;
+  position:absolute;
+  text-align:left;
+  top:43.29%;
+  width:49.36%;
+}
+.landing-page-v1 .a-nummo-ge-ua-decisao-C61RwL {
+  background-color:transparent;
+  height:2.00%;
+  left:21.05%;
+  position:absolute;
+  text-align:left;
+  top:57.80%;
+  width:29.14%;
+}
+.landing-page-v1 .acessar-C61RwL {
+  background-color:transparent;
+  color:var(--white);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:12.0px;
+  font-style:normal;
+  font-weight:700;
+  height:0.84%;
+  left:88.51%;
+  letter-spacing:0.48px;
+  position:absolute;
+  text-align:left;
+  top:0.59%;
+  width:9.01%;
+}
+.landing-page-v1 .como-funciona-C61RwL {
+  background-color:transparent;
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:44.0px;
+  font-style:normal;
+  font-weight:700;
+  height:2.82%;
+  left:35.39%;
+  letter-spacing:1.76px;
+  position:absolute;
+  text-align:left;
+  top:40.41%;
+  width:55.42%;
+}
+.landing-page-v1 .contato-C61RwL {
+  background-color:transparent;
+  height:0.63%;
+  left:15.44%;
+  position:absolute;
+  text-align:left;
+  top:94.71%;
+  width:5.42%;
+}
+.landing-page-v1 .contato-ma-de-escolha-C61RwL {
+  background-color:transparent;
+  height:3.03%;
+  left:20.68%;
+  position:absolute;
+  text-align:left;
+  top:60.99%;
+  width:29.32%;
+}
+.landing-page-v1 .descubra-m-ir-de-casa-C61RwL {
+  background-color:transparent;
+  color:var(--black);
+  font-family:'Poiret One', Helvetica, Arial, serif;
+  font-size:22.0px;
+  font-style:normal;
+  font-weight:400;
+  height:3.57%;
+  left:7.44%;
+  letter-spacing:0.88px;
+  position:absolute;
+  text-align:left;
+  top:8.57%;
+  width:33.36%;
+}
+.landing-page-v1 .equipe-C61RwL {
+  background-color:transparent;
+  height:0.63%;
+  left:15.44%;
+  position:absolute;
+  text-align:left;
+  top:95.65%;
+  width:5.42%;
+}
+.landing-page-v1 .forma-comp-emprestimo-C61RwL {
+  background-color:transparent;
+  height:3.03%;
+  left:58.09%;
+  position:absolute;
+  text-align:left;
+  top:60.28%;
+  width:29.32%;
+}
+.landing-page-v1 .frame-8-C61RwL {
+  background-color:transparent;
+  height:380px;
+  left:-22px;
+  opacity:0.4;
+  overflow:hidden;
+  position:absolute;
+  top:2575px;
+  width:1155px;
+}
+.landing-page-v1 .frame-C61RwL {
+  background-color:transparent;
+  height:27px;
+  left:62px;
+  overflow:hidden;
+  position:absolute;
+  top:3160px;
+  width:27px;
+}
+.landing-page-v1 .frame-VMr6Om {
+  background-color:transparent;
+  height:25px;
+  left:36px;
+  overflow:hidden;
+  position:absolute;
+  top:3161px;
+  width:24px;
+}
+.landing-page-v1 .group-25-C61RwL {
+  background-color:transparent;
+  height:553px;
+  left: calc(100% - 562px);
+  position:absolute;
+  top:-3px;
+  width:562px;
+}
+.landing-page-v1 .group-26-C61RwL {
+  background-color:transparent;
+  height:366px;
+  left:40px;
+  position:absolute;
+  top:666px;
+  width:555px;
+}
+.landing-page-v1 .group-C61RwL {
+  background-color:transparent;
+  height:261px;
+  left:133px;
+  position:absolute;
+  top:1342px;
+  width:234px;
+}
+.landing-page-v1 .group-VMr6Om {
+  background-color:transparent;
+  height:215px;
+  left:850px;
+  position:absolute;
+  top:2213px;
+  width:301px;
+}
+.landing-page-v1 .image-1-8SyPK4 {
+  background-color:transparent;
+  height:735px;
+  left:-253px;
+  position:absolute;
+  top:-272px;
+  width:2522px;
+}
+.landing-page-v1 .investir-C61RwL {
+  background-color:transparent;
+  height:0.69%;
+  left:47.43%;
+  position:absolute;
+  text-align:left;
+  top:0.75%;
+  width:8.36%;
+}
+.landing-page-v1 .investir-VMr6Om {
+  background-color:transparent;
+  height:0.69%;
+  left:47.43%;
+  position:absolute;
+  text-align:left;
+  top:0.75%;
+  width:8.36%;
+}
+.landing-page-v1 .junte-se-C61RwL {
+  background-color:transparent;
+  color:var(--white);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:12.0px;
+  font-style:normal;
+  font-weight:700;
+  height:0.84%;
+  left:11.40%;
+  letter-spacing:0.48px;
+  position:absolute;
+  text-align:left;
+  top:13.07%;
+  width:9.01%;
+}
+.landing-page-v1 .junte-se-VMr6Om {
+  background-color:transparent;
+  height:0.63%;
+  left:23.07%;
+  position:absolute;
+  text-align:left;
+  top:96.59%;
+  width:16.45%;
+}
+.landing-page-v1 .line-2-C61RwL {
+  background-color:transparent;
+  height:1px;
+  left:31px;
+  position:absolute;
+  top:3150px;
+  width:1036px;
+}
+.landing-page-v1 .missao-C61RwL {
+  background-color:transparent;
+  height:0.84%;
+  left:77.02%;
+  position:absolute;
+  text-align:left;
+  top:0.56%;
+  width:6.53%;
+}
+.landing-page-v1 .missao-VMr6Om {
+  background-color:transparent;
+  height:0.63%;
+  left:15.44%;
+  position:absolute;
+  text-align:left;
+  top:96.59%;
+  width:5.42%;
+}
+.landing-page-v1 .nos-C61RwL {
+  background-color:transparent;
+  height:0.84%;
+  left:71.05%;
+  position:absolute;
+  text-align:left;
+  top:0.56%;
+  width:4.60%;
+}
+.landing-page-v1 .noticias-C61RwL {
+  background-color:transparent;
+  height:0.63%;
+  left:15.53%;
+  position:absolute;
+  text-align:left;
+  top:97.47%;
+  width:16.45%;
+}
+.landing-page-v1 .nummo-C61RwL {
+  background-color:transparent;
+  height:0.84%;
+  left:9.26%;
+  position:absolute;
+  top:0.75%;
+  width:7.49%;
+}
+.landing-page-v1 .nummo-VMr6Om {
+  background-color:transparent;
+  height:0.84%;
+  left:6.14%;
+  position:absolute;
+  top:93.56%;
+  width:7.49%;
+}
+.landing-page-v1 .pagamentos-apidamente-C61RwL {
+  background-color:transparent;
+  height:3.03%;
+  left:58.18%;
+  position:absolute;
+  text-align:left;
+  top:64.44%;
+  width:29.32%;
+}
+.landing-page-v1 .para-quem-empresta-C61RwL {
+  background-color:transparent;
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:700;
+  height:1.35%;
+  left:22.06%;
+  letter-spacing:0.72px;
+  position:absolute;
+  text-align:left;
+  top:54.83%;
+  width:30.79%;
+}
+.landing-page-v1 .parceiros-C61RwL {
+  background-color:transparent;
+  height:0.63%;
+  left:23.16%;
+  position:absolute;
+  text-align:left;
+  top:94.71%;
+  width:5.42%;
+}
+.landing-page-v1 .perguntas-frequentes-C61RwL {
+  background-color:transparent;
+  height:0.63%;
+  left:22.98%;
+  position:absolute;
+  text-align:left;
+  top:97.47%;
+  width:16.45%;
+}
+.landing-page-v1 .privacidade-C61RwL {
+  background-color:transparent;
+  height:0.63%;
+  left:23.16%;
+  position:absolute;
+  text-align:left;
+  top:95.65%;
+  width:9.37%;
+}
+.landing-page-v1 .processo-s-a-bancaria-C61RwL {
+  background-color:transparent;
+  height:3.03%;
+  left:57.81%;
+  position:absolute;
+  text-align:left;
+  top:57.80%;
+  width:29.32%;
+}
+.landing-page-v1 .pt-brbadge-bgeneric-1-C61RwL {
+  background-color:transparent;
+  height:40px;
+  left:31px;
+  position:absolute;
+  top:3102px;
+  width:104px;
+}
+.landing-page-v1 .pt-brbadge-bgeneric-2-C61RwL {
+  background-color:transparent;
+  height:75px;
+  left:451px;
+  position:absolute;
+  top:2843px;
+  width:196px;
+}
+.landing-page-v1 .quem-somos-C61RwL {
+  background-color:transparent;
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:36.0px;
+  font-style:normal;
+  font-weight:700;
+  height:2.82%;
+  left:57.81%;
+  letter-spacing:1.44px;
+  position:absolute;
+  text-align:left;
+  top:19.42%;
+  width:32.90%;
+}
+.landing-page-v1 .receber-C61RwL {
+  background-color:transparent;
+  height:0.69%;
+  left:37.04%;
+  position:absolute;
+  text-align:left;
+  top:0.78%;
+  width:8.36%;
+}
+.landing-page-v1 .rectangle-11-C61RwL {
+  background-color:rgba(234,24,62,1.0);
+  height:244px;
+  left:0px;
+  position:absolute;
+  top:2953px;
+  width:100%;
+}
+.landing-page-v1 .rectangle-14-C61RwL {
+  background-color:transparent;
+  height:64px;
+  left:0px;
+  position:absolute;
+  top:1136px;
+  width:100%;
+}
+.landing-page-v1 .rectangle-15-C61RwL {
+  background-color:transparent;
+  height:79px;
+  left:157px;
+  position:absolute;
+  top:1730px;
+  width:454px;
+}
+.landing-page-v1 .rectangle-16-C61RwL {
+  background-color:transparent;
+  height:79px;
+  left:725px;
+  position:absolute;
+  top:1749px;
+  width:424px;
+}
+.landing-page-v1 .rectangle-17-C61RwL {
+  background-color:transparent;
+  height:10px;
+  left:189px;
+  position:absolute;
+  top:1875px;
+  width:10px;
+}
+.landing-page-v1 .rectangle-18-C61RwL {
+  background-color:transparent;
+  height:10px;
+  left:185px;
+  position:absolute;
+  top:1977px;
+  width:10px;
+}
+.landing-page-v1 .rectangle-19-C61RwL {
+  background-color:transparent;
+  height:10px;
+  left:185px;
+  position:absolute;
+  top:2080px;
+  width:10px;
+}
+.landing-page-v1 .rectangle-20-C61RwL {
+  background-color:transparent;
+  height:10px;
+  left:776px;
+  position:absolute;
+  top:2087px;
+  width:10px;
+}
+.landing-page-v1 .rectangle-21-C61RwL {
+  background-color:transparent;
+  height:10px;
+  left:772px;
+  position:absolute;
+  top:1949px;
+  width:10px;
+}
+.landing-page-v1 .rectangle-22-C61RwL {
+  background-color:transparent;
+  height:68px;
+  left:0px;
+  position:absolute;
+  top:2534px;
+  width:100%;
+}
+.landing-page-v1 .rectangle-23-C61RwL {
+  background-color:rgba(37,31,31,1.0);
+  border-radius:35px;
+  height:27px;
+  left:1247px;
+  position:absolute;
+  top:14px;
+  width:107px;
+}
+.landing-page-v1 .rectangle-24-C61RwL {
+  background-color:transparent;
+  height:9px;
+  left:637px;
+  position:absolute;
+  top:28px;
+  width:8px;
+}
+.landing-page-v1 .rectangle-25-C61RwL {
+  background-color:transparent;
+  height:10px;
+  left:772px;
+  position:absolute;
+  top:1875px;
+  width:10px;
+}
+.landing-page-v1 .rectangle-31-C61RwL {
+  background-color:transparent;
+  height:0.88%;
+  left:3.27%;
+  position:absolute;
+  top:0.74%;
+  width:3.63%;
+}
+.landing-page-v1 .rectangle-31-VMr6Om {
+  background-color:transparent;
+  height:0.63%;
+  left:2.84%;
+  position:absolute;
+  top:93.63%;
+  width:2.62%;
+}
+.landing-page-v1 .rectangle-32-C61RwL {
+  background-color:transparent;
+  height:0.31%;
+  left:4.67%;
+  position:absolute;
+  top:0.84%;
+  width:0.78%;
+}
+.landing-page-v1 .rectangle-32-VMr6Om {
+  background-color:transparent;
+  height:0.20%;
+  left:3.85%;
+  position:absolute;
+  top:93.71%;
+  width:0.55%;
+}
+.landing-page-v1 .rectangle-33-C61RwL {
+  background-color:rgba(41,41,41,1.0);
+  height:0.35%;
+  left:5.01%;
+  position:absolute;
+  top:0.82%;
+  width:0px;
+}
+.landing-page-v1 .rectangle-33-VMr6Om {
+  background-color:rgba(41,41,41,1.0);
+  height:0.25%;
+  left:4.09%;
+  position:absolute;
+  top:93.69%;
+  width:0px;
+}
+.landing-page-v1 .rectangle-34-C61RwL {
+  background-color:transparent;
+  height:28px;
+  left:46px;
+  position:absolute;
+  top:24px;
+  width:9px;
+}
+.landing-page-v1 .rectangle-34-VMr6Om {
+  background-color:transparent;
+  height:20px;
+  left:39px;
+  position:absolute;
+  top:2994px;
+  width:6px;
+}
+.landing-page-v1 .se-interes-novo-mundo-C61RwL {
+  background-color:transparent;
+  color:var(--steel-gray);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:35.0px;
+  font-style:normal;
+  font-weight:700;
+  height:5.53%;
+  left:7.06%;
+  letter-spacing:1.40px;
+  position:absolute;
+  text-align:center;
+  top:83.39%;
+  width:89.25%;
+}
+.landing-page-v1 .slice-2-C61RwL {
+  background-color:transparent;
+  height:1px;
+  left:57px;
+  position:absolute;
+  top:32px;
+  width:1px;
+}
+.landing-page-v1 .slice-2-VMr6Om {
+  background-color:transparent;
+  height:1px;
+  left:46px;
+  position:absolute;
+  top:2999px;
+  width:1px;
+}
+.landing-page-v1 .taxa-de-ju--o-mercado-C61RwL {
+  background-color:transparent;
+  height:3.03%;
+  left:20.68%;
+  position:absolute;
+  text-align:left;
+  top:64.22%;
+  width:29.32%;
+}
+.landing-page-v1 .vantagens--o-contrato-C61RwL {
+  background-color:transparent;
+  color:rgba(255,247,205,1.0);
+  font-family:'Skranji', Helvetica, Arial, serif;
+  font-size:17.0px;
+  font-style:normal;
+  font-weight:700;
+  height:1.35%;
+  left:55.51%;
+  letter-spacing:0.68px;
+  position:absolute;
+  text-align:left;
+  top:55.46%;
+  width:41.73%;
+}
+.landing-page-v1 .vector-C61RwL {
+  background-color:transparent;
+  height:0.94%;
+  left:8.73%;
+  position:absolute;
+  top:12.86%;
+  width:11.21%;
+}
+.landing-page-v1 .vector-QxM5SU {
+  background-color:transparent;
+  height:0.83%;
+  left:2.74%;
+  position:absolute;
+  top:93.55%;
+  width:2.76%;
+}
+.landing-page-v1 .vector-RGSLBL {
+  background-color:transparent;
+  height:11.11%;
+  left:21.98%;
+  position:absolute;
+  top:17.02%;
+  width:11.11%;
+}
+.landing-page-v1 .vector-VMr6Om {
+  background-color:transparent;
+  height:6.10%;
+  left:60.48%;
+  position:absolute;
+  top:69.78%;
+  width:25.55%;
+}
+.landing-page-v1 .vector-gufFyG {
+  background-color:transparent;
+  height:27.78%;
+  left:21.98%;
+  position:absolute;
+  top:31.48%;
+  width:11.11%;
+}
+.landing-page-v1 .vector-mzXdH9 {
+  background-color:transparent;
+  height:1.16%;
+  left:3.11%;
+  position:absolute;
+  top:0.63%;
+  width:3.86%;
+}
+.landing-page-v1 .vector-xcO7Yh {
+  background-color:transparent;
+  height:27.78%;
+  left:36.96%;
+  position:absolute;
+  top:31.48%;
+  width:29.63%;
+}
+.landing-page-v1 .xmlid-1-gufFyG {
+  background-color:transparent;
+  height:85.19%;
+  left:-0.47%;
+  position:absolute;
+  top:-0.85%;
+  width:87.04%;
+}
+.landing-page-v1 .xmlid-2-gufFyG {
+  background-color:transparent;
+  height:85.19%;
+  left:-0.47%;
+  position:absolute;
+  top:-0.85%;
+  width:87.04%;
+}
+.landing-page-v1 .xmlid-2-xe5316 {
+  background-color:transparent;
+  height:52.00%;
+  left:29.50%;
+  position:absolute;
+  top:15.75%;
+  width:27.08%;
+}
+.landing-page-v1 .xmlid-3-gufFyG {
+  background-color:transparent;
+  height:1.85%;
+  left:56.03%;
+  position:absolute;
+  top:57.33%;
+  width:1.85%;
+}
+.landing-page-v1 .xmlid-3-xe5316 {
+  background-color:transparent;
+  height:84.00%;
+  left:-0.70%;
+  position:absolute;
+  top:-0.26%;
+  width:87.50%;
+}
+.landing-page-v1 .xmlid-4-xe5316 {
+  background-color:transparent;
+  height:84.00%;
+  left:-0.70%;
+  position:absolute;
+  top:-0.26%;
+  width:87.50%;
+}
+.landing-page-v1 .xmlid-5-xe5316 {
+  background-color:transparent;
+  height:2.00%;
+  left:55.91%;
+  position:absolute;
+  top:57.26%;
+  width:2.08%;
+}
+:root {
+  --black:rgba(0,0,0,1.0);
+  --steel-gray:rgba(35,37,54,1.0);
+  --white:rgba(255,255,255,1.0);
+}
