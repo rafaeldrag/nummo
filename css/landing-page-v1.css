@@ -3,6 +3,11 @@
 .border-class-1 {
   border:1px solid transparent;
 }
+.logo {
+    top: 17px;
+    left: 52px;
+    position: absolute;
+}
 .font-class-1 {
   color:var(--white);
   font-family:'Puritan', Helvetica, Arial, serif;
