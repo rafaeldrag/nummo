@@ -36,12 +36,6 @@ Você pode saber mais a respeito clicando nos links abaixo:
 
 O desenvolvimento deste site fez uso de Javascript e CSS, com interface visual projetada através do Figma.
 
-## Testes
-
-## Design
-
-[Design do Figma utilizado](https://www.figma.com/file/fI4h9pmDGKzSI3Odd0dkMn/Wireframes)
-
 ## Time
 
 - Heitor Sales
