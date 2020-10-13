@@ -7,6 +7,7 @@ Landing Page para Aplicativo de Android Nummo.
 - [Sobre](#Sobre)
 - [Solução](#Solução)
 - [Tecnologia](#Tecnologia)
+- [Testes](#Testes)
 - [Time](#Time)
 
 ## Sobre
@@ -33,6 +34,10 @@ Você pode saber mais a respeito clicando nos links abaixo:
 ## Tecnologia
 
 O desenvolvimento deste site fez uso de Javascript e CSS, com interface visual projetada através do Figma.
+
+## Testes
+
+Você pode baixar e testar o app através deste [link](https://drive.google.com/file/d/1uU5pnzH5xEX3HRrkBbHQ0NoS0vev4aYl/view?usp=sharing)
 
 ## Time
 
