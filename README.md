@@ -28,7 +28,7 @@ Você pode saber mais a respeito clicando nos links abaixo:
 - [Slides Pitch](https://drive.google.com/file/d/11FhAWmN-9ml-2gR2oy6VvUKcAIAv5vw2/view?usp=sharing)
 - [Vídeo Demo](https://youtu.be/KXUbcEiWlnI)
 - [Site](https://nummo.imfast.io/nummo/index.html)
-- [Github do site](https://github.com/zluciano/nummo)
+- [Github do app](https://github.com/zluciano/nummo)
 
 ## Tecnologia
 
