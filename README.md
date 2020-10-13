@@ -7,8 +7,6 @@ Landing Page para Aplicativo de Android Nummo.
 - [Sobre](#Sobre)
 - [Solução](#Solução)
 - [Tecnologia](#Tecnologia)
-- [Testes](#Testes)
-- [Design](#Design)
 - [Time](#Time)
 
 ## Sobre
